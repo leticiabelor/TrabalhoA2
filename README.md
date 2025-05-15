@@ -1,2 +1,2 @@
 # TrabalhoA2
-###Leticia Belo Ribeiro & Andreas Olive De Carli
+Leticia Belo Ribeiro & Andreas Olive De Carli
